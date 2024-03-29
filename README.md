@@ -1,1 +1,1 @@
-#Salary Predictiojn using Regression Model based on years of experience !
+#Salary Prediction using Regression Model based on years of experience !
